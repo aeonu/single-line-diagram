@@ -6,8 +6,4 @@ single-line diagram
 ![_20220107101844](https://user-images.githubusercontent.com/96326382/190911586-32efdee6-9001-4989-ba23-9b3e4884b14b.jpg)
 
 
-
-
-
-![image](https://github.com/aeonu/single-line_diagram/blob/main/pic/one-line-diagram/%E6%B5%8B%E8%AF%95%E7%BA%BF%E5%8D%95%E7%BA%BF%E5%9B%BE%E6%A8%AA%E5%90%91.jpg)
-
+![image](https://user-images.githubusercontent.com/96326382/196042440-c3f2b9ca-1e4f-41d0-8944-6d8f3ddbefd3.png)
