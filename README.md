@@ -6,4 +6,4 @@ single-line diagram
 ![_20220107101844](https://user-images.githubusercontent.com/96326382/190911586-32efdee6-9001-4989-ba23-9b3e4884b14b.jpg)
 
 
-![image](https://user-images.githubusercontent.com/96326382/196042440-c3f2b9ca-1e4f-41d0-8944-6d8f3ddbefd3.png)
+![image](https://user-images.githubusercontent.com/96326382/196043186-f388a847-e7a4-407d-9101-08f9986fd143.png)
