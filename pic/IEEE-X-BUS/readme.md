@@ -27,3 +27,5 @@
 8.
 ![Single-line-diagram-of-a-real-distribution-netw](https://user-images.githubusercontent.com/96326382/196188785-04a0dadc-6a79-49fc-9b5c-2905948de7fe.png)
 
+9.
+![Hijj-11kV-network](https://user-images.githubusercontent.com/96326382/196189282-d1abf818-1522-47c7-b55a-edbcccaa6016.png)
