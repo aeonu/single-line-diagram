@@ -5,17 +5,19 @@
 ![OIP-C](https://user-images.githubusercontent.com/96326382/196186246-1ab63947-d2f9-4b6f-8e12-936f3ccf3380.jpg)
 
 ---
-##2.
+2.
 ![v2-589609435d7e52ef247ed8bf71dd3ca8_b](https://user-images.githubusercontent.com/96326382/196186975-511d87ff-7822-4d63-bb18-4f34ded13598.jpg)
 
 ---
-##3.
+3.
 ![6-TableI-1](https://user-images.githubusercontent.com/96326382/196187640-3fac768d-d866-4227-b49a-66b85048d127.png)
 
-4.---
+---
+4.
 ![5-Figure4-1 (1)](https://user-images.githubusercontent.com/96326382/196187778-cece8986-26f5-48cf-bb4a-d77cd14c4572.png)
 
-5.---
+---
+5.
 ![Single-line-diagram-of-the-power-distribution-network-in-Hamadan (1)](https://user-images.githubusercontent.com/96326382/196187928-444ada35-9c31-449e-bb84-3d554203b823.png)
 
 6.---
