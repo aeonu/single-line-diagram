@@ -29,3 +29,6 @@
 
 9.
 ![Hijj-11kV-network](https://user-images.githubusercontent.com/96326382/196189282-d1abf818-1522-47c7-b55a-edbcccaa6016.png)
+
+10.
+![OIP-C](https://user-images.githubusercontent.com/96326382/196190431-55de3908-9e8c-4ec8-a319-9a8b6918b31c.jpg)
