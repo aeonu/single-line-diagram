@@ -36,4 +36,6 @@
 9.
 ![map-smartds](https://user-images.githubusercontent.com/96326382/196193693-d4c50941-f69f-4aac-a835-4a5bd5ab2dc4.jpg)
 
-
+---
+10.
+![Topology-of-the-distribution-feeder-highlighting-the-location-of-the-energy-storage](https://user-images.githubusercontent.com/96326382/196195363-744ef236-17ae-4c37-8bfb-5b292afc05bd.png)
