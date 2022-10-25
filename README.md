@@ -27,3 +27,9 @@ single-line diagram
 ## IEEE 141Bus 新的编号自动生成图
 
 ![image](https://user-images.githubusercontent.com/96326382/196043186-f388a847-e7a4-407d-9101-08f9986fd143.png)
+
+
+## 重要的原创公式
+
+![image](https://user-images.githubusercontent.com/96326382/197811126-d858f037-40a5-4970-96b2-22efa712dda0.png)
+
