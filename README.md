@@ -29,8 +29,12 @@ single-line diagram
 ![image](https://user-images.githubusercontent.com/96326382/196043186-f388a847-e7a4-407d-9101-08f9986fd143.png)
 
 
-## 某10kV线路自动成图
+## 某10kV线路自动成图1
 ![image](https://user-images.githubusercontent.com/96326382/198287578-a4f3199b-1171-45c1-8729-8acb9f08b312.png)
+
+
+## 某10kV线路自动成图2
+![image](https://user-images.githubusercontent.com/96326382/198639308-6fd08962-932e-4db0-a275-f3e774f59eb1.png)
 
 
 
