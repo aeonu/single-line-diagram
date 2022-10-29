@@ -44,6 +44,10 @@ single-line diagram
 ![image](https://user-images.githubusercontent.com/96326382/198814887-2acd8562-12dd-4cbd-85d3-5cefa0a96f21.png)
 
 
+## 某10kV线路自动成图4
+![image](https://user-images.githubusercontent.com/96326382/198816350-0a05a94c-2e8d-4a01-8bc4-6c27550aad2b.png)
+
+
 ## *重要的原创公式*
 
 ![image](https://user-images.githubusercontent.com/96326382/197811126-d858f037-40a5-4970-96b2-22efa712dda0.png)
