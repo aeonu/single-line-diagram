@@ -35,6 +35,9 @@ single-line diagram
 ## 某10kV线路自动成图1无参数
 ![image](https://user-images.githubusercontent.com/96326382/198814851-0fe93034-b12a-425a-930d-bd7dd832207c.png)
 
+## 某10kV线路自动成图1无参数局部细节
+![image](https://user-images.githubusercontent.com/96326382/198834241-d0687d97-8c71-4dd2-8fde-6c282549cfed.png)
+
 
 
 ## 某10kV线路自动成图2
