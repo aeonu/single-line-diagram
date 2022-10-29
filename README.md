@@ -28,6 +28,9 @@ single-line diagram
 
 ![image](https://user-images.githubusercontent.com/96326382/196043186-f388a847-e7a4-407d-9101-08f9986fd143.png)
 
+## IEEE 141Bus 新的编号自动生成图无参数
+![image](https://user-images.githubusercontent.com/96326382/198835471-5f7c4116-cc43-45a3-9913-79aff37a7990.png)
+
 
 ## 某10kV线路自动成图1
 ![image](https://user-images.githubusercontent.com/96326382/198287578-a4f3199b-1171-45c1-8729-8acb9f08b312.png)
