@@ -32,10 +32,16 @@ single-line diagram
 ## 某10kV线路自动成图1
 ![image](https://user-images.githubusercontent.com/96326382/198287578-a4f3199b-1171-45c1-8729-8acb9f08b312.png)
 
+## 某10kV线路自动成图1无参数
+![image](https://user-images.githubusercontent.com/96326382/198814851-0fe93034-b12a-425a-930d-bd7dd832207c.png)
+
+
 
 ## 某10kV线路自动成图2
 ![image](https://user-images.githubusercontent.com/96326382/198639308-6fd08962-932e-4db0-a275-f3e774f59eb1.png)
 
+## 某10kV线路自动成图3
+![image](https://user-images.githubusercontent.com/96326382/198814887-2acd8562-12dd-4cbd-85d3-5cefa0a96f21.png)
 
 
 ## *重要的原创公式*
