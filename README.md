@@ -55,6 +55,7 @@ single-line diagram
 ## 某10kV线路自动成图4
 ![image](https://user-images.githubusercontent.com/96326382/198816350-0a05a94c-2e8d-4a01-8bc4-6c27550aad2b.png)
 
-
+## 某10kV线路自动成图5
+![image](https://user-images.githubusercontent.com/96326382/199049160-dc3c5310-4803-429a-992b-5515b8655ab3.png)
 
 
