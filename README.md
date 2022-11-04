@@ -2,9 +2,11 @@
 
 配电网单线图自动成图
 
-single-line diagram
+single line diagram
 
-项目地址:[https://github.com/aeonu/single-line_diagram](https://github.com/aeonu/single-line_diagram)
+A program that creates automatic single line diagrams for power distribution given specific criteria. 
+
+项目地址:[https://github.com/aeonu/single-line_diagram](https://github.com/aeonu/single-line-diagram)
 
 
 
