@@ -8,7 +8,7 @@
 # @version : 1.1.0
 
 import sqlite3
-from conf import settings
+import settings
 import win32api
 import win32con
 from openpyxl import Workbook
