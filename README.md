@@ -61,4 +61,5 @@ A program that creates automatic single line diagrams for power distribution giv
 ## 某10kV线路自动成图5
 ![image](https://user-images.githubusercontent.com/96326382/199049160-dc3c5310-4803-429a-992b-5515b8655ab3.png)
 
-
+## 某10kV线路草图6
+![image](https://user-images.githubusercontent.com/96326382/200121950-a29ea902-6444-4d71-9c34-215d3b3654a8.png)
