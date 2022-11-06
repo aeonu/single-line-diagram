@@ -31,6 +31,8 @@ import webbrowser
 import base64
 from pubsub import pub
 import threading
+from addtransz import addtransz
+from single_line import polemodify
 from matplotlib.text import Text
 
 
